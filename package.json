@@ -1,0 +1,31 @@
+{
+  "name": "stream-adventure",
+  "version": "0.0.0",
+  "description": "My solutions to Substack's stream-adventure",
+  "main": "",
+  "dependencies": {
+    "stream-adventure": "*",
+    "tar": "~0.1.17",
+    "through": "~2.3.4",
+    "concat-stream": "~1.0.0",
+    "split": "~0.2.6",
+    "crypto": "~0.0.3",
+    "zlib": "~1.0.5",
+    "request": "~2.22.0",
+    "websocket-stream": "~0.2.0",
+    "trumpet": "~1.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timmysze/stream-adventure.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/timmysze/stream-adventure/issues"
+  }
+}
